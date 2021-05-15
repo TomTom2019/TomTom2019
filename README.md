@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomTom2019
 - 👀 I’m interested in html,react backend and node frontend
-- 🌱 I’m currently learning react full stack + graphql
+- 🌱 I’m currently learning react full stack 
 - 💞️ I’m looking to collaborate on small projet
 - 📫 How to reach me ...
 
