@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TomTom2019
-- 👀 I’m interested in html,react backend and node frontend
+- 👀 I’m interested in html,backend and frontend with react.js node.js
 - 🌱 I’m currently learning react full stack 
 - 💞️ I’m looking to collaborate on small projet
 - 📫 How to reach me ...
